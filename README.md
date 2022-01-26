@@ -1,6 +1,6 @@
 # Who's That Character
-Coded by Philcob Suzuki Josol and Kristian Magallanes
-> Submitted to Ma'am Jennifer Rapirap. Codes are within the java files uploaded in this repository
+Coded by Philcob Suzuki Josol and Kristian Magallanes. Submitted to Ma'am Jennifer Rapirap. 
+> Codes are within the java files uploaded in this repository
 
 ## Screenshots of our program
 > Ahri
