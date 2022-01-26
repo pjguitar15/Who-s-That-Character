@@ -1,4 +1,4 @@
-# Who's That Character
+# Who's That Character (Computer Programming 2 Task Performance)
 Coded by Philcob Suzuki Josol and Kristian Magallanes. Submitted to Ma'am Jennifer Rapirap. 
 > Codes are within the java files uploaded in this repository
 
