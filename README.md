@@ -12,3 +12,5 @@ Coded by Philcob Suzuki Josol and Kristian Magallanes. Submitted to Ma'am Jennif
 
 ![alt text](https://i.imgur.com/lSgOjHZ.jpg)
 ![alt text](https://i.imgur.com/BpLRzAN.jpg)
+
+> And more
